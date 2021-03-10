@@ -1,1 +1,2 @@
-# isTouching-Explained
+# collisionAlgorithm
+Algorithm to detect collision between two objects
